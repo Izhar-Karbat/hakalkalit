@@ -1,0 +1,13 @@
+raw_file,url,downloaded
+price_40010.json,https://api.cbs.gov.il/index/data/price?id=40010&format=json&download=false&startPeriod=01-1999&endPeriod=12-2025&PageSize=400,2026-10-17
+wage_30014.json,https://apis.cbs.gov.il/series/data/list?id=30014&format=json&download=false&startPeriod=01-1999&endPeriod=12-2025,2026-10-17
+wage_45002.json,https://apis.cbs.gov.il/series/data/list?id=45002&format=json&download=false&startPeriod=01-1999&endPeriod=12-2025,2026-10-17
+wage_45637.json,https://apis.cbs.gov.il/series/data/list?id=45637&format=json&download=false&startPeriod=01-1999&endPeriod=12-2025,2026-10-17
+wage_615908.json,https://apis.cbs.gov.il/series/data/list?id=615908&format=json&download=false&startPeriod=01-1999&endPeriod=12-2025,2026-10-17
+aa2_2_e_2025_price01.pdf,https://www.cbs.gov.il/he/publications/Madad/DocLib/2025/price01aa/aa2_2_e.pdf,2026-10-17
+aa2_2_e_2025_price04.pdf,https://www.cbs.gov.il/he/publications/Madad/DocLib/2025/price04aa/aa2_2_e.pdf,2026-10-17
+aa2_2_e_2025_price07.pdf,https://www.cbs.gov.il/he/publications/Madad/DocLib/2025/price07aa/aa2_2_e.pdf,2026-10-17
+aa2_2_e_2025_price10.pdf,https://www.cbs.gov.il/he/publications/Madad/DocLib/2025/price10aa/aa2_2_e.pdf,2026-10-17
+aa2_2_e_2026_price01.pdf,https://www.cbs.gov.il/he/publications/Madad/DocLib/2026/price01aa/aa2_2_e.pdf,2026-10-17
+aa2_2_e_2026_price04.pdf,https://www.cbs.gov.il/he/publications/Madad/DocLib/2026/price04aa/aa2_2_e.pdf,2026-10-17
+aa2_2_e_2026_price07.pdf,https://www.cbs.gov.il/he/publications/Madad/DocLib/2026/price07aa/aa2_2_e.pdf,2026-10-17

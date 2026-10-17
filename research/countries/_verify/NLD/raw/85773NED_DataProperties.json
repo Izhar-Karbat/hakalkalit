@@ -1,0 +1,27 @@
+{
+  "odata.metadata":"https://opendata.cbs.nl/ODataApi/OData/85773NED/$metadata#Cbs.OData.WebAPI.DataProperties","value":[
+    {
+      "odata.type":"Cbs.OData.TimeDimension","ID":0,"Position":0,"ParentID":null,"Type":"TimeDimension","Key":"Perioden","Title":"Perioden","Description":"","ReleasePolicy":true
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":1,"Position":null,"ParentID":null,"Type":"TopicGroup","Key":"","Title":"Prijsindex bestaande koopwoningen","Description":null
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":2,"Position":1,"ParentID":1,"Type":"Topic","Key":"PrijsindexVerkoopprijzen_1","Title":"Prijsindex verkoopprijzen","Description":"De Prijsindex Bestaande Koopwoningen geeft de prijsverandering weer van de voorraad van bestaande koopwoningen. De woning moet op Nederlandse grond staan en verkocht zijn aan een particulier. ","Datatype":"Float","Unit":"2020=100","Decimals":1,"Default":"Impossible"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":3,"Position":2,"ParentID":1,"Type":"Topic","Key":"OntwikkelingTOVVoorgaandePeriode_2","Title":"Ontwikkeling  t.o.v. voorgaande periode","Description":"De procentuele ontwikkeling van een bepaalde periode (maand, kwartaal, jaar) ten opzichte van dezelfde voorafgaande periode. Het CBS berekent de ontwikkeling aan de hand van niet-afgeronde indexcijfers. ","Datatype":"Float","Unit":"%","Decimals":1,"Default":"Impossible"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":4,"Position":3,"ParentID":1,"Type":"Topic","Key":"OntwikkelingTOVEenJaarEerder_3","Title":"Ontwikkeling  t.o.v. een jaar eerder","Description":"De procentuele ontwikkeling van een bepaalde periode (maand, kwartaal, jaar) ten opzichte van dezelfde periode in het daaraan voorafgaande jaar. Het CBS berekent de ontwikkeling aan de hand van niet-afgeronde indexcijfers.","Datatype":"Float","Unit":"%","Decimals":1,"Default":"Impossible"
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":5,"Position":null,"ParentID":null,"Type":"TopicGroup","Key":"","Title":"Verkochte bestaande koopwoningen","Description":null
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":6,"Position":4,"ParentID":5,"Type":"Topic","Key":"VerkochteWoningen_4","Title":"Verkochte woningen","Description":"Aantal verkochte woningen is het aantal geregistreerde transacties bij het Kadaster van een woning gekocht door een particulier gemeten aan het einde van verslagperiode.\r\n\r\n","Datatype":"Long","Unit":"aantal","Decimals":0,"Default":"Impossible"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":7,"Position":5,"ParentID":5,"Type":"Topic","Key":"OntwikkelingTOVVoorgaandePeriode_5","Title":"Ontwikkeling  t.o.v. voorgaande periode","Description":"De procentuele ontwikkeling van een bepaalde periode (maand, kwartaal, jaar) ten opzichte van dezelfde voorafgaande periode. Het CBS berekent de ontwikkeling aan de hand van niet-afgeronde indexcijfers. \r\n","Datatype":"Float","Unit":"%","Decimals":1,"Default":"Impossible"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":8,"Position":6,"ParentID":5,"Type":"Topic","Key":"OntwikkelingTOVEenJaarEerder_6","Title":"Ontwikkeling  t.o.v. een jaar eerder","Description":"De procentuele ontwikkeling van een bepaalde periode (maand, kwartaal, jaar) ten opzichte van dezelfde periode in het daaraan voorafgaande jaar. Het CBS berekent de ontwikkeling aan de hand van niet-afgeronde indexcijfers.\r\n","Datatype":"Float","Unit":"%","Decimals":1,"Default":"Impossible"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":9,"Position":7,"ParentID":null,"Type":"Topic","Key":"GemiddeldeVerkoopprijs_7","Title":"Gemiddelde verkoopprijs","Description":"De gemiddelde verkoopprijs geeft de gemiddelde waarde weer die betaald is in een verslagperiode voor bestaande woningen die zijn aangekocht door een particulier. Deze cijfers tonen niet het verloop van de prijsontwikkeling van alle bestaande koopwoningen. Daarvoor dient u gebruik te maken van de prijsindexcijfers.\r\n\r\n","Datatype":"Long","Unit":"euro","Decimals":0,"Default":"Impossible"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":10,"Position":8,"ParentID":null,"Type":"Topic","Key":"TotaleWaardeVerkoopprijzen_8","Title":"Totale waarde verkoopprijzen","Description":"De totale waarde van de verkoopprijzen heeft betrekking op bestaande woningen die zijn aangekocht door een particulier. ","Datatype":"Long","Unit":"mln euro","Decimals":0,"Default":"Impossible"
+    }
+  ]
+}

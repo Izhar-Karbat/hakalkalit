@@ -1,0 +1,10 @@
+raw_file,url,downloaded
+raw/akoga_Immobilienmarktbericht_Deutschland_2025.pdf,https://redaktion-akoga.niedersachsen.de/download/224020,2026-10-17
+raw/destatis_Qualitaetsbericht_Haeuserpreisindex.pdf,https://www.destatis.de/DE/Methoden/Qualitaet/Qualitaetsberichte/Preise/haeuserpreisindex.pdf?__blob=publicationFile,2026-10-17
+raw/destatis_genesis_61262-0001_HPI_annual_data.json,https://genesis.destatis.de/genesis/api/rest/tables/61262-0001/data,2026-10-17
+raw/destatis_genesis_61262-0001_HPI_annual_information.json,https://genesis.destatis.de/genesis/api/rest/tables/61262-0001/information,2026-10-17
+raw/destatis_genesis_61262-0001_HPI_annual_structure.json,https://genesis.destatis.de/genesis/api/rest/tables/61262-0001/structure,2026-10-17
+raw/destatis_genesis_61262-0002_HPI_quarterly_data.json,https://genesis.destatis.de/genesis/api/rest/tables/61262-0002/data,2026-10-17
+raw/destatis_genesis_61262-0002_HPI_quarterly_structure.json,https://genesis.destatis.de/genesis/api/rest/tables/61262-0002/structure,2026-10-17
+raw/destatis_genesis_qualitySigns.json,https://genesis.destatis.de/genesis/api/rest/tables/61262-0002/qualitySigns,2026-10-17
+raw/destatis_table_page_Haeuserpreise-Bauland.html,https://www.destatis.de/DE/Themen/Wirtschaft/Preise/Baupreise-Immobilienpreisindex/Tabellen/Haeuserpreise-Bauland.html,2026-10-17

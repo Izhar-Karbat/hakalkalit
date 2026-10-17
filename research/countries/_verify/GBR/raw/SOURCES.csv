@@ -1,0 +1,9 @@
+raw_file,url,downloaded
+kab9_lms.csv,https://www.ons.gov.uk/generator?format=csv&uri=/employmentandlabourmarket/peopleinwork/earningsandworkinghours/timeseries/kab9/lms,2026-10-17
+hpssadataset12meanpricepaidforadministrativegeographies.xls,https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/housing/datasets/meanhousepricefornationalandsubnationalgeographiesquarterlyrollingyearhpssadataset12/current/hpssadataset12meanpricepaidforadministrativegeographies.xls,2026-10-17
+pp-2000.csv,http://prod1.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-2000.csv,2026-10-17
+pp-2007.csv,http://prod1.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-2007.csv,2026-10-17
+pp-2013.csv,http://prod1.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-2013.csv,2026-10-17
+pp-2016.csv,http://prod1.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-2016.csv,2026-10-17
+pp-2022.csv,http://prod1.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-2022.csv,2026-10-17
+pp-2025.csv,http://prod1.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-2025.csv,2026-10-17

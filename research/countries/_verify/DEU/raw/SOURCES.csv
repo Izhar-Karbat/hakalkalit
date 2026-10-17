@@ -1,0 +1,12 @@
+raw_file,url,downloaded
+genesis_61262-0001_data.json,https://genesis.destatis.de/genesis/api/rest/tables/61262-0001/data?language=de,2026-10-17
+genesis_61262-0001_information.json,https://genesis.destatis.de/genesis/api/rest/tables/61262-0001/information?language=de,2026-10-17
+genesis_61262-0001_structure.json,https://genesis.destatis.de/genesis/api/rest/tables/61262-0001/structure?language=en,2026-10-17
+genesis_81000-0017_data.json,https://genesis.destatis.de/genesis/api/rest/tables/81000-0017/data?language=de,2026-10-17
+genesis_81000-0017_information.json,https://genesis.destatis.de/genesis/api/rest/tables/81000-0017/information?language=de,2026-10-17
+Immobilienmarktbericht_Deutschland_2025.pdf,https://redaktion-akoga.niedersachsen.de/download/224020,2026-10-17
+AKOGA_IMB2025_Grafikpaket.zip,https://redaktion-akoga.niedersachsen.de/download/224012,2026-10-17
+AKOGA_imd2013.pdf,https://redaktion-akoga.niedersachsen.de/download/131516,2026-10-17
+AKOGA_imd2015.pdf,https://redaktion-akoga.niedersachsen.de/download/131517,2026-10-17
+AKOGA_imd2009.pdf,https://redaktion-akoga.niedersachsen.de/download/131513,2026-10-17
+destatis_qualitaetsbericht_haeuserpreisindex.pdf,https://www.destatis.de/DE/Methoden/Qualitaet/Qualitaetsberichte/Preise/haeuserpreisindex.pdf?__blob=publicationFile,2026-10-17

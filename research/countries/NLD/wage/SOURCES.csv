@@ -1,0 +1,12 @@
+raw_file,url,downloaded
+raw/cbs_85919NED_total_economy.json,"https://opendata.cbs.nl/ODataApi/odata/85919NED/TypedDataSet?$format=json&$filter=BedrijfstakkenBranchesSBI2008%20eq%20'T001081'",2026-10-17T16:05Z
+raw/cbs_85919NED_TableInfos.json,"https://opendata.cbs.nl/ODataApi/odata/85919NED/TableInfos?$format=json",2026-10-17T16:05Z
+raw/cbs_85919NED_DataProperties.json,"https://opendata.cbs.nl/ODataApi/odata/85919NED/DataProperties?$format=json",2026-10-17T16:05Z
+raw/cbs_85919NED_Perioden.json,"https://opendata.cbs.nl/ODataApi/odata/85919NED/Perioden?$format=json",2026-10-17T16:05Z
+raw/cbs_81431ned_total.json,"https://opendata.cbs.nl/ODataApi/odata/81431ned/TypedDataSet?$format=json&$filter=BedrijfstakkenBranchesSBI2008%20eq%20'T001081'%20and%20KenmerkenBaanWerknemerBedrijf%20eq%20'T001098'",2026-10-17T16:05Z
+raw/cbs_81431ned_TableInfos.json,"https://opendata.cbs.nl/ODataApi/odata/81431ned/TableInfos?$format=json",2026-10-17T16:05Z
+raw/cbs_81431ned_DataProperties.json,"https://opendata.cbs.nl/ODataApi/odata/81431ned/DataProperties?$format=json",2026-10-17T16:05Z
+raw/cbs_84165NED_total_economy_archived.json,"https://opendata.cbs.nl/ODataApi/odata/84165NED/TypedDataSet?$format=json&$filter=BedrijfstakkenBranchesSBI2008%20eq%20'T001081'",2026-10-17T16:06Z
+raw/cbs_82578NED_total_economy_archived.json,"https://opendata.cbs.nl/ODataApi/odata/82578NED/TypedDataSet?$format=json&$filter=BedrijfstakkenBranchesSBI2008%20eq%20'300025'",2026-10-17T16:06Z
+raw/cbs_84165NED_TableInfos.json,"https://opendata.cbs.nl/ODataApi/odata/84165NED/TableInfos?$format=json",2026-10-17T16:06Z
+raw/cbs_82578NED_TableInfos.json,"https://opendata.cbs.nl/ODataApi/odata/82578NED/TableInfos?$format=json",2026-10-17T16:06Z

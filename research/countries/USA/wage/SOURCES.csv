@@ -1,0 +1,14 @@
+raw_file,url,downloaded
+raw/2000_annual_singlefile.zip,"https://data.bls.gov/cew/data/files/2000/csv/2000_annual_singlefile.zip",2026-10-17T16:05:27Z
+raw/qcew_open_2014_a_area_US000.csv,"https://data.bls.gov/cew/data/api/2014/a/area/US000.csv",2026-10-17T16:05:28Z
+raw/qcew_open_2025_a_area_US000.csv,"https://data.bls.gov/cew/data/api/2025/a/area/US000.csv",2026-10-17T16:05:29Z
+raw/bls_api_ENUUS00010010_2001-2010.json,"https://api.bls.gov/publicAPI/v2/timeseries/data/ENUUS00010010?startyear=2001&endyear=2010",2026-10-17T16:05:38Z
+raw/bls_api_ENUUS00010010_2011-2020.json,"https://api.bls.gov/publicAPI/v2/timeseries/data/ENUUS00010010?startyear=2011&endyear=2020",2026-10-17T16:05:39Z
+raw/bls_api_ENUUS00010010_2021-2025.json,"https://api.bls.gov/publicAPI/v2/timeseries/data/ENUUS00010010?startyear=2021&endyear=2025",2026-10-17T16:05:39Z
+raw/bls_api_ENUUS00030010_2001-2010.json,"https://api.bls.gov/publicAPI/v2/timeseries/data/ENUUS00030010?startyear=2001&endyear=2010",2026-10-17T16:05:40Z
+raw/bls_api_ENUUS00030010_2011-2020.json,"https://api.bls.gov/publicAPI/v2/timeseries/data/ENUUS00030010?startyear=2011&endyear=2020",2026-10-17T16:05:40Z
+raw/bls_api_ENUUS00030010_2021-2025.json,"https://api.bls.gov/publicAPI/v2/timeseries/data/ENUUS00030010?startyear=2021&endyear=2025",2026-10-17T16:05:41Z
+raw/bls_api_ENUUS00050010_2001-2010.json,"https://api.bls.gov/publicAPI/v2/timeseries/data/ENUUS00050010?startyear=2001&endyear=2010",2026-10-17T16:05:42Z
+raw/bls_api_ENUUS00050010_2011-2020.json,"https://api.bls.gov/publicAPI/v2/timeseries/data/ENUUS00050010?startyear=2011&endyear=2020",2026-10-17T16:05:42Z
+raw/bls_api_ENUUS00050010_2021-2025.json,"https://api.bls.gov/publicAPI/v2/timeseries/data/ENUUS00050010?startyear=2021&endyear=2025",2026-10-17T16:05:43Z
+raw/bls_ew_annual_2007_total_coverage_by_ownership.pdf,"https://www.bls.gov/cew/publications/employment-and-wages-annual-averages/2007/tables/total-coverage-by-ownership.pdf",2026-10-17T16:06:51Z

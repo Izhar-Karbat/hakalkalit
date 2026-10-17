@@ -1,0 +1,5 @@
+raw_file,url,downloaded
+insee_010001868.xml,https://bdm.insee.fr/series/sdmx/data/SERIES_BDM/010001868,2026-10-17
+insee_011785411.xml,https://bdm.insee.fr/series/sdmx/data/SERIES_BDM/011785411,2026-10-17
+insee_011793486.xml,https://bdm.insee.fr/series/sdmx/data/SERIES_BDM/011793486,2026-10-17
+geodvf_2024_full.csv.gz,https://files.data.gouv.fr/geo-dvf/latest/csv/2024/full.csv.gz,2026-10-17

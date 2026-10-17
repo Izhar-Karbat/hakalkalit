@@ -1,0 +1,10 @@
+raw_file,url,downloaded
+85773NED_TableInfos.json,https://opendata.cbs.nl/ODataApi/odata/85773NED/TableInfos,2026-10-17
+85773NED_DataProperties.json,https://opendata.cbs.nl/ODataApi/odata/85773NED/DataProperties,2026-10-17
+85773NED_TypedDataSet.json,https://opendata.cbs.nl/ODataApi/odata/85773NED/TypedDataSet,2026-10-17
+85773NED_Perioden.json,https://opendata.cbs.nl/ODataApi/odata/85773NED/Perioden,2026-10-17
+85919NED_TableInfos.json,https://opendata.cbs.nl/ODataApi/odata/85919NED/TableInfos,2026-10-17
+85919NED_DataProperties.json,https://opendata.cbs.nl/ODataApi/odata/85919NED/DataProperties,2026-10-17
+85919NED_TypedDataSet.json,https://opendata.cbs.nl/ODataApi/odata/85919NED/TypedDataSet,2026-10-17
+85919NED_Branches.json,https://opendata.cbs.nl/ODataApi/odata/85919NED/BedrijfstakkenBranchesSBI2008,2026-10-17
+85919NED_Perioden.json,https://opendata.cbs.nl/ODataApi/odata/85919NED/Perioden,2026-10-17

@@ -1,0 +1,5 @@
+raw_file,url,downloaded
+raw/census_nrs_price_cust_new_houses_sold_median_avg_price.xlsx,https://www.census.gov/construction/nrs/xls/price_cust.xlsx,2026-10-17
+raw/census_nrs_quarterly_sales_release.pdf,https://www.census.gov/construction/nrs/pdf/quarterly_sales.pdf,2026-10-17
+raw/census_soc_methodology.html,https://www.census.gov/construction/soc/methodology.html,2026-10-17
+raw/fhfa_hpi_master_all_indexes.csv,https://www.fhfa.gov/hpi/download/monthly/hpi_master.csv,2026-10-17

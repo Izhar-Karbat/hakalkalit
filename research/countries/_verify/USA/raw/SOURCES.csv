@@ -1,0 +1,9 @@
+raw_file,url,downloaded
+price_cust.xlsx,https://www.census.gov/construction/nrs/xls/price_cust.xlsx,2026-10-17
+usprice_cust.xls,https://www.census.gov/construction/nrs/xls/usprice_cust.xls,2026-10-17
+qcew_2016_a_US000.csv,https://data.bls.gov/cew/data/api/2016/a/area/US000.csv,2026-10-17
+qcew_2022_a_US000.csv,https://data.bls.gov/cew/data/api/2022/a/area/US000.csv,2026-10-17
+qcew_2025_a_US000.csv,https://data.bls.gov/cew/data/api/2025/a/area/US000.csv,2026-10-17
+2000_annual_singlefile.zip,https://data.bls.gov/cew/data/files/2000/csv/2000_annual_singlefile.zip,2026-10-17
+2007_annual_singlefile.zip,https://data.bls.gov/cew/data/files/2007/csv/2007_annual_singlefile.zip,2026-10-17
+2013_annual_singlefile.zip,https://data.bls.gov/cew/data/files/2013/csv/2013_annual_singlefile.zip,2026-10-17

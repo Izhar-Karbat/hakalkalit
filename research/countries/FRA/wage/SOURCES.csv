@@ -1,0 +1,8 @@
+raw_file,url,downloaded
+raw/insee_cna2020_cpeb_D11_total.xml,https://bdm.insee.fr/series/sdmx/data/CNA-2020-CPEB/A.CNA_CPEB.NNTOTAL.VAL.D11.VALEUR_ABSOLUE.FE.EUROS_COURANTS.BRUT.FALSE,2026-10-17
+raw/insee_cna2020_emploi_salarie_pp.xml,https://bdm.insee.fr/series/sdmx/data/CNA-2020-EMPLOI/A.CNA_EMPLOI_INTERIEUR.NNTOTAL.S10.VALEUR_ABSOLUE.E20.FE.MILLIERS_ACTIFS_OCCUPES_PP.BRUT.FALSE,2026-10-17
+raw/insee_cna2020_emploi_salarie_etp.xml,https://bdm.insee.fr/series/sdmx/data/CNA-2020-EMPLOI/A.CNA_EMPLOI_INTERIEUR.NNTOTAL.S10.VALEUR_ABSOLUE.E20.FE.MILLIERS_ACTIFS_OCCUPES_ETP.BRUT.FALSE,2026-10-17
+raw/T_6205_fr.xlsx,https://www.insee.fr/fr/statistiques/fichier/8988821/T_6205_fr.xlsx,2026-10-17
+raw/T_6210_fr.xlsx,https://www.insee.fr/fr/statistiques/fichier/8988823/T_6210_fr.xlsx,2026-10-17
+raw/T_6211_fr.xlsx,https://www.insee.fr/fr/statistiques/fichier/8988823/T_6211_fr.xlsx,2026-10-17
+raw/ip2079.pdf,https://www.insee.fr/fr/statistiques/fichier/8657156/ip2079.pdf,2026-10-17

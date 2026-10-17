@@ -1,0 +1,15 @@
+raw_file,url,downloaded
+raw/destatis_genesis_81000-0017_data.json,https://genesis.destatis.de/genesis/api/rest/tables/81000-0017/data,2026-10-17
+raw/destatis_genesis_81000-0017_structure.json,https://genesis.destatis.de/genesis/api/rest/tables/81000-0017/structure,2026-10-17
+raw/destatis_genesis_81000-0017_information.json,https://genesis.destatis.de/genesis/api/rest/tables/81000-0017/information,2026-10-17
+raw/destatis_genesis_81000-0015_data.json,https://genesis.destatis.de/genesis/api/rest/tables/81000-0015/data,2026-10-17
+raw/destatis_genesis_81000-0015_structure.json,https://genesis.destatis.de/genesis/api/rest/tables/81000-0015/structure,2026-10-17
+raw/destatis_genesis_81000-0015_information.json,https://genesis.destatis.de/genesis/api/rest/tables/81000-0015/information,2026-10-17
+raw/destatis_genesis_81000-0007_data.json,https://genesis.destatis.de/genesis/api/rest/tables/81000-0007/data,2026-10-17
+raw/destatis_genesis_81000-0007_structure.json,https://genesis.destatis.de/genesis/api/rest/tables/81000-0007/structure,2026-10-17
+raw/destatis_genesis_81000-0007_information.json,https://genesis.destatis.de/genesis/api/rest/tables/81000-0007/information,2026-10-17
+raw/destatis_genesis_qualitySigns.json,https://genesis.destatis.de/genesis/api/rest/tables/81000-0017/qualitySigns,2026-10-17
+raw/destatis_table_page_inlandsprodukt-gesamtwirtschaft.html,https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/Tabellen/inlandsprodukt-gesamtwirtschaft.html,2026-10-17
+raw/destatis_table_page_inlandsprodukt-personenkonzept.html,https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/Tabellen/inlandsprodukt-personenkonzept.html,2026-10-17
+raw/destatis_table_page_bip-einkommensverteilung.html,https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/Tabellen/bip-einkommensverteilung.html,2026-10-17
+raw/destatis_table_page_verdienste-lange-reihe-deutschland.html,https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Verdienste-Branche-Berufe/Tabellen/lange-reihe-deutschland.html,2026-10-17

@@ -1,0 +1,6 @@
+raw_file,url,downloaded
+raw/dvf,https://files.data.gouv.fr/geo-dvf/latest/csv/{2021..2025}/full.csv.gz,2026-10-17
+raw/insee_IPL_methodology_p1644.html,https://www.insee.fr/fr/metadonnees/source/indicateur/p1644/presentation,2026-10-17
+raw/insee_IR224_IPLNA_2T2026_release.pdf,https://www.insee.fr/fr/statistiques/fichier/version-html/9050027/IR224_IPLNA-2T26.pdf,2026-10-17
+raw/insee_bdm_IPLA-IPLNA-2015_dataflow.xml,https://www.bdm.insee.fr/series/sdmx/data/IPLA-IPLNA-2015,2026-10-17
+raw/insee_bdm_series_010001868_010567058_010001869.xml,https://www.bdm.insee.fr/series/sdmx/data/SERIES_BDM/010001868+010567058+010001869,2026-10-17

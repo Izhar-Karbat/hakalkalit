@@ -1,0 +1,121 @@
+{
+  "odata.metadata":"https://opendata.cbs.nl/ODataApi/OData/85919NED/$metadata#Cbs.OData.WebAPI.DataProperties","value":[
+    {
+      "odata.type":"Cbs.OData.Dimension","ID":0,"Position":0,"ParentID":null,"Type":"Dimension","Key":"BedrijfstakkenBranchesSBI2008","Title":"Bedrijfstakken/branches (SBI 2008)","Description":""
+    },{
+      "odata.type":"Cbs.OData.TimeDimension","ID":1,"Position":1,"ParentID":null,"Type":"TimeDimension","Key":"Perioden","Title":"Perioden","Description":"","ReleasePolicy":true
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":2,"Position":null,"ParentID":null,"Type":"TopicGroup","Key":"","Title":"Beloning van werknemers","Description":"De totale vergoeding, in geld of in natura, die door een werkgever aan een werknemer verschuldigd is voor de arbeid die deze tijdens een verslagperiode heeft verricht. De beloning van werknemers is gelijk aan het totaal van lonen en sociale premies ten laste van werkgevers.\r\n\r\nDe beloning van werknemers bestaat uit de volgende elementen: lonen en salarissen (inclusief de ingehouden loonbelasting en sociale premies ten laste van de werknemer), bijzondere beloningen (zoals vakantietoeslag), loon in natura, onkostenvergoedingen in verband met de dienstbetrekking (zoals kosten woon-werkverkeer) en sociale premies ten laste van de werkgever (betalingen en afdrachten in het kader van de wettelijke en contractuele sociale zekerheid, zoals pensioenbijdrage)."
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":3,"Position":null,"ParentID":2,"Type":"TopicGroup","Key":"","Title":"Bedrag","Description":null
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":4,"Position":2,"ParentID":3,"Type":"Topic","Key":"BeloningVanWerknemers_1","Title":"Beloning van werknemers","Description":"De totale vergoeding, in geld of in natura, die door een werkgever aan een werknemer verschuldigd is voor de arbeid die deze tijdens een verslagperiode heeft verricht. De beloning van werknemers is gelijk aan het totaal van lonen en sociale premies ten laste van werkgevers.\r\n\r\nDe beloning van werknemers bestaat uit de volgende elementen: lonen en salarissen (inclusief de ingehouden loonbelasting en sociale premies ten laste van de werknemer), bijzondere beloningen (zoals vakantietoeslag), loon in natura, onkostenvergoedingen in verband met de dienstbetrekking (zoals kosten woon-werkverkeer) en sociale premies ten laste van de werkgever (betalingen en afdrachten in het kader van de wettelijke en contractuele sociale zekerheid, zoals pensioenbijdrage).","Datatype":"Double","Unit":"mln euro","Decimals":0,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":5,"Position":3,"ParentID":3,"Type":"Topic","Key":"Lonen_2","Title":"Lonen","Description":"De vergoedingen voor de werknemer, die in een bepaalde periode arbeid verricht, en die ten laste komen van de werkgever. Dit is inclusief de door de werkgever ingehouden loonbelasting en de sociale premies die ten laste komen van de werknemer.\r\n\r\nNaast het periodieke, direct aan werknemers betaalde loon bevatten de lonen en salarissen ook aanvullingen hierop (zoals gratificaties, overwerkvergoeding, fooien en provisie), het loon in natura (zoals vrij wonen, vrije voeding, 'auto van de zaak', korting op kinderopvang, rentevoordeel en voordelig reizen) en het vakantiegeld. Ook bepaalde vergoedingen voor kosten die door werknemers zijn gemaakt in verband met de dienstbetrekking, zoals vergoeding voor de kosten van het woon-werkverkeer, worden tot de lonen gerekend. De loonbetaling over uren die een werknemer wegens ziekteverzuim niet werkt wordt overgeheveld naar de 'sociale premies ten laste van werkgevers'.","Datatype":"Double","Unit":"mln euro","Decimals":0,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":6,"Position":4,"ParentID":3,"Type":"Topic","Key":"SocialePremiesTLVWerkgevers_3","Title":"Sociale premies t.l.v. werkgevers","Description":"De ten laste van werkgevers komende premies voor wettelijke sociale verzekering, particuliere sociale premies (waaronder pensioenpremies) en toegerekende sociale premies (zoals doorbetaling van loon bij ziekte).","Datatype":"Double","Unit":"mln euro","Decimals":0,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":7,"Position":5,"ParentID":3,"Type":"Topic","Key":"Loonkosten_4","Title":"Loonkosten","Description":"Het totaal van lonen en sociale premies ten laste van werkgevers, plus eindheffingen minus loonkostensubsidies. Eindheffingen betreffen belastingen die werkgevers verschuldigd zijn op lonen, zoals die in het kader van de werkkostenregeling. Ook de crisisheffing, ten laste van werkgevers die werknemers in dienst hadden met lonen boven de 150 duizend euro, werd hiertoe gerekend. Loonkostensubsidies betreffen subsidies op de totale loonsom of het aantal werknemers, dan wel op het in dienst hebben van bepaalde categorie\u00ebn personen, zoals lichamelijk gehandicapten of langdurig werklozen. Ook subsidies op de kosten van opleidingsprogramma's die door ondernemingen worden georganiseerd behoren hiertoe.","Datatype":"Double","Unit":"mln euro","Decimals":0,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":8,"Position":null,"ParentID":2,"Type":"TopicGroup","Key":"","Title":"Ontwikkeling t.o.v. een jaar eerder","Description":"De procentuele ontwikkeling van een bepaalde periode (maand, kwartaal, jaar) ten opzichte van dezelfde periode in het daaraan voorafgaande jaar."
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":9,"Position":6,"ParentID":8,"Type":"Topic","Key":"BeloningVanWerknemers_5","Title":"Beloning van werknemers","Description":"De totale vergoeding, in geld of in natura, die door een werkgever aan een werknemer verschuldigd is voor de arbeid die deze tijdens een verslagperiode heeft verricht. De beloning van werknemers is gelijk aan het totaal van lonen en sociale premies ten laste van werkgevers.\r\n\r\nDe beloning van werknemers bestaat uit de volgende elementen: lonen en salarissen (inclusief de ingehouden loonbelasting en sociale premies ten laste van de werknemer), bijzondere beloningen (zoals vakantietoeslag), loon in natura, onkostenvergoedingen in verband met de dienstbetrekking (zoals kosten woon-werkverkeer) en sociale premies ten laste van de werkgever (betalingen en afdrachten in het kader van de wettelijke en contractuele sociale zekerheid, zoals pensioenbijdrage).","Datatype":"Float","Unit":"%","Decimals":1,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":10,"Position":7,"ParentID":8,"Type":"Topic","Key":"Lonen_6","Title":"Lonen","Description":"De vergoedingen voor de werknemer, die in een bepaalde periode arbeid verricht, en die ten laste komen van de werkgever. Dit is inclusief de door de werkgever ingehouden loonbelasting en de sociale premies die ten laste komen van de werknemer.\r\n\r\nNaast het periodieke, direct aan werknemers betaalde loon bevatten de lonen en salarissen ook aanvullingen hierop (zoals gratificaties, overwerkvergoeding, fooien en provisie), het loon in natura (zoals vrij wonen, vrije voeding, 'auto van de zaak', korting op kinderopvang, rentevoordeel en voordelig reizen) en het vakantiegeld. Ook bepaalde vergoedingen voor kosten die door werknemers zijn gemaakt in verband met de dienstbetrekking, zoals vergoeding voor de kosten van het woon-werkverkeer, worden tot de lonen gerekend. De loonbetaling over uren die een werknemer wegens ziekteverzuim niet werkt wordt overgeheveld naar de 'sociale premies ten laste van werkgevers'.","Datatype":"Float","Unit":"%","Decimals":1,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":11,"Position":8,"ParentID":8,"Type":"Topic","Key":"Loonkosten_7","Title":"Loonkosten","Description":"Het totaal van lonen en sociale premies ten laste van werkgevers, plus eindheffingen minus loonkostensubsidies. Eindheffingen betreffen belastingen die werkgevers verschuldigd zijn op lonen, zoals die in het kader van de werkkostenregeling. Ook de crisisheffing, ten laste van werkgevers die werknemers in dienst hadden met lonen boven de 150 duizend euro, werd hiertoe gerekend. Loonkostensubsidies betreffen subsidies op de totale loonsom of het aantal werknemers, dan wel op het in dienst hebben van bepaalde categorie\u00ebn personen, zoals lichamelijk gehandicapten of langdurig werklozen. Ook subsidies op de kosten van opleidingsprogramma's die door ondernemingen worden georganiseerd behoren hiertoe.","Datatype":"Float","Unit":"%","Decimals":1,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":12,"Position":null,"ParentID":null,"Type":"TopicGroup","Key":"","Title":"Beloning per arbeidsvolume","Description":"De beloning van werknemers gedeeld door het arbeidsvolume van werknemers."
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":13,"Position":null,"ParentID":12,"Type":"TopicGroup","Key":"","Title":"Bedrag","Description":null
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":14,"Position":null,"ParentID":13,"Type":"TopicGroup","Key":"","Title":"Beloning van werknemers per arbeidsjaar","Description":"De beloning van werknemers gedeeld door de arbeidsjaren van werknemers."
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":15,"Position":9,"ParentID":14,"Type":"Topic","Key":"BeloningPerArbeidsjaar_8","Title":"Beloning per arbeidsjaar","Description":"De beloning van werknemers gedeeld door de arbeidsjaren van werknemers.","Datatype":"Double","Unit":"1 000 euro","Decimals":1,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":16,"Position":10,"ParentID":14,"Type":"Topic","Key":"LonenPerArbeidsjaar_9","Title":"Lonen per arbeidsjaar","Description":"De lonen gedeeld door de arbeidsjaren van werknemers.","Datatype":"Double","Unit":"1 000 euro","Decimals":1,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":17,"Position":11,"ParentID":14,"Type":"Topic","Key":"LoonkostenPerArbeidsjaar_10","Title":"Loonkosten per arbeidsjaar","Description":"De loonkosten gedeeld door de arbeidsjaren van werknemers.","Datatype":"Double","Unit":"1 000 euro","Decimals":1,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":18,"Position":null,"ParentID":13,"Type":"TopicGroup","Key":"","Title":"Beloning van werknemers per gewerkt uur","Description":"De beloning van werknemers gedeeld door de gewerkte uren van werknemers."
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":19,"Position":12,"ParentID":18,"Type":"Topic","Key":"BeloningPerGewerktUur_11","Title":"Beloning per gewerkt uur","Description":"De beloning van werknemers gedeeld door de gewerkte uren van werknemers.","Datatype":"Double","Unit":"euro","Decimals":1,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":20,"Position":13,"ParentID":18,"Type":"Topic","Key":"LonenPerGewerktUur_12","Title":"Lonen per gewerkt uur","Description":"De lonen gedeeld door de gewerkte uren van werknemers.","Datatype":"Double","Unit":"euro","Decimals":1,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":21,"Position":14,"ParentID":18,"Type":"Topic","Key":"LoonkostenPerGewerktUur_13","Title":"Loonkosten per gewerkt uur","Description":"De loonkosten gedeeld door de gewerkte uren van werknemers.","Datatype":"Double","Unit":"euro","Decimals":1,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":22,"Position":null,"ParentID":12,"Type":"TopicGroup","Key":"","Title":"Ontwikkeling t.o.v. een jaar eerder","Description":"De procentuele ontwikkeling van een bepaalde periode (maand, kwartaal, jaar) ten opzichte van dezelfde periode in het daaraan voorafgaande jaar."
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":23,"Position":null,"ParentID":22,"Type":"TopicGroup","Key":"","Title":"Beloning van werknemers per arbeidsjaar","Description":"De beloning van werknemers gedeeld door de arbeidsjaren van werknemers."
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":24,"Position":15,"ParentID":23,"Type":"Topic","Key":"BeloningPerArbeidsjaar_14","Title":"Beloning per arbeidsjaar","Description":"De beloning van werknemers gedeeld door de arbeidsjaren van werknemers.","Datatype":"Float","Unit":"%","Decimals":1,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":25,"Position":16,"ParentID":23,"Type":"Topic","Key":"LonenPerArbeidsjaar_15","Title":"Lonen per arbeidsjaar","Description":"De lonen gedeeld door de arbeidsjaren van werknemers.","Datatype":"Float","Unit":"%","Decimals":1,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":26,"Position":17,"ParentID":23,"Type":"Topic","Key":"LoonkostenPerArbeidsjaar_16","Title":"Loonkosten per arbeidsjaar","Description":"De loonkosten gedeeld door de arbeidsjaren van werknemers.","Datatype":"Float","Unit":"%","Decimals":1,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":27,"Position":null,"ParentID":22,"Type":"TopicGroup","Key":"","Title":"Beloning van werknemers per gewerkt uur","Description":"De beloning van werknemers gedeeld door de gewerkte uren van werknemers."
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":28,"Position":18,"ParentID":27,"Type":"Topic","Key":"BeloningPerGewerktUur_17","Title":"Beloning per gewerkt uur","Description":"De beloning van werknemers gedeeld door de gewerkte uren van werknemers.","Datatype":"Float","Unit":"%","Decimals":1,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":29,"Position":19,"ParentID":27,"Type":"Topic","Key":"LonenPerGewerktUur_18","Title":"Lonen per gewerkt uur","Description":"De lonen gedeeld door de gewerkte uren van werknemers.","Datatype":"Float","Unit":"%","Decimals":1,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":30,"Position":20,"ParentID":27,"Type":"Topic","Key":"LoonkostenPerGewerktUur_19","Title":"Loonkosten per gewerkt uur","Description":"De loonkosten gedeeld door de gewerkte uren van werknemers.","Datatype":"Float","Unit":"%","Decimals":1,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":31,"Position":null,"ParentID":null,"Type":"TopicGroup","Key":"","Title":"Arbeidsvolume van werknemers","Description":"De hoeveelheid arbeid die is ingezet in het productieproces, uitgedrukt in werkzame personen, banen, arbeidsjaren of gewerkte uren."
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":32,"Position":null,"ParentID":31,"Type":"TopicGroup","Key":"","Title":"Aantal","Description":null
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":33,"Position":21,"ParentID":32,"Type":"Topic","Key":"Arbeidsjaren_20","Title":"Arbeidsjaren","Description":"Een maatstaf voor het arbeidsvolume, die wordt berekend door alle banen (voltijd en deeltijd) om te rekenen naar voltijdbanen, ook wel voltijdequivalenten (vte) genoemd.\r\n\r\nZo leveren twee halve banen (elk 0,5 vte) samen een arbeidsvolume van \u00e9\u00e9n arbeidsjaar op.","Datatype":"Double","Unit":"x 1 000","Decimals":0,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":34,"Position":22,"ParentID":32,"Type":"Topic","Key":"GewerkteUren_21","Title":"Gewerkte uren","Description":"Het totale aantal uren dat werknemers gedurende de verslagperiode werkelijk hebben gewerkt. Niet-gewerkte uren wegens verlof of ziekte tellen dus niet mee.\r\n\r\nDe gewerkte uren van werknemers worden berekend door de betaalde uren (de overeengekomen uren plus de betaalde overwerkuren) te vermeerderen met onbetaalde overwerkuren en te verminderen met feitelijk niet gewerkte uren die betaald worden, zoals wegens ziekteverzuim, zwangerschaps- en bevallingsverlof, stakingen, weerverlet, ouderschapsverlof en kort verzuim.","Datatype":"Double","Unit":"mln uren","Decimals":0,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":35,"Position":23,"ParentID":32,"Type":"Topic","Key":"BetaaldeUren_22","Title":"Betaalde uren","Description":"De som van overeengekomen uren en betaalde overwerkuren.","Datatype":"Double","Unit":"mln uren","Decimals":0,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":36,"Position":24,"ParentID":32,"Type":"Topic","Key":"OvereengekomenUren_23","Title":"Overeengekomen uren","Description":"In de Nationale rekeningen (NR) wordt hieronder verstaan: het aantal uren dat een werknemer volgens contract geacht wordt te werken in een bepaalde tijdsperiode (week, maand, e.d.).\r\n\r\nHet aantal overeengekomen uren wordt berekend door het aantal betaalde overwerkuren op het aantal betaalde uren in mindering te brengen.\r\nBetaalde niet-gewerkte uren (zoals verlof) zijn niet op de overeengekomen uren in mindering gebracht.\r\n\r\n","Datatype":"Double","Unit":"mln uren","Decimals":0,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":37,"Position":25,"ParentID":32,"Type":"Topic","Key":"BetaaldeOverwerkuren_24","Title":"Betaalde overwerkuren","Description":"Uren die boven de voor de werknemer geldende arbeidsduur werkelijk zijn gewerkt en volledig zijn uitbetaald.","Datatype":"Double","Unit":"mln uren","Decimals":0,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":38,"Position":null,"ParentID":31,"Type":"TopicGroup","Key":"","Title":"Ontwikkeling t.o.v. een jaar eerder","Description":"De procentuele ontwikkeling van een bepaalde periode (maand, kwartaal, jaar) ten opzichte van dezelfde periode in het daaraan voorafgaande jaar."
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":39,"Position":26,"ParentID":38,"Type":"Topic","Key":"Arbeidsjaren_25","Title":"Arbeidsjaren","Description":"Een maatstaf voor het arbeidsvolume, die wordt berekend door alle banen (voltijd en deeltijd) om te rekenen naar voltijdbanen, ook wel voltijdequivalenten (vte) genoemd.\r\n\r\nZo leveren twee halve banen (elk 0,5 vte) samen een arbeidsvolume van \u00e9\u00e9n arbeidsjaar op.","Datatype":"Float","Unit":"%","Decimals":1,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":40,"Position":27,"ParentID":38,"Type":"Topic","Key":"GewerkteUren_26","Title":"Gewerkte uren","Description":"Het totale aantal uren dat werknemers gedurende de verslagperiode werkelijk hebben gewerkt. Niet-gewerkte uren wegens verlof of ziekte tellen dus niet mee.\r\n\r\nDe gewerkte uren van werknemers worden berekend door de betaalde uren (de overeengekomen uren plus de betaalde overwerkuren) te vermeerderen met onbetaalde overwerkuren en te verminderen met feitelijk niet gewerkte uren die betaald worden, zoals wegens ziekteverzuim, zwangerschaps- en bevallingsverlof, stakingen, weerverlet, ouderschapsverlof en kort verzuim.","Datatype":"Float","Unit":"%","Decimals":1,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":41,"Position":null,"ParentID":null,"Type":"TopicGroup","Key":"","Title":"Banen van werknemers","Description":"Een baan is een expliciete of impliciete overeenkomst tussen een persoon en een in Nederland gevestigde economische eenheid (een bedrijf, instelling of particulier huishouden) om gedurende een bepaalde periode of tot nader order tegen beloning werk te verrichten. De niet-bezette arbeidsplaatsen (vacatures) tellen dus niet mee in het aantal banen. Naast banen van werknemers zijn er ook banen van zelfstandigen. In dat geval valt de persoon meestal samen met het bedrijf of de instelling. Een zelfstandige kan ook meerdere banen hebben, bijvoorbeeld als iemand een autorijschool heeft en daarnaast ook werkzaam is als vertaler.\r\n\r\nIn deze tabel wordt het gemiddeld aantal banen van werknemers bij Nederlandse economische eenheden gegeven. In het gemiddeld aantal banen per periode telt een baan alleen mee voor de dagen dat deze bestaat in de verslagperiode."
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":42,"Position":null,"ParentID":41,"Type":"TopicGroup","Key":"","Title":"Aantal","Description":null
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":43,"Position":null,"ParentID":42,"Type":"TopicGroup","Key":"","Title":"Banen (voltijd en deeltijd)","Description":"Het totaal van de voltijdbanen en de deeltijdbanen."
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":44,"Position":28,"ParentID":43,"Type":"Topic","Key":"Totaal_27","Title":"Totaal","Description":null,"Datatype":"Double","Unit":"x 1 000","Decimals":0,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":45,"Position":29,"ParentID":43,"Type":"Topic","Key":"Mannen_28","Title":"Mannen","Description":null,"Datatype":"Double","Unit":"x 1 000","Decimals":0,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":46,"Position":30,"ParentID":43,"Type":"Topic","Key":"Vrouwen_29","Title":"Vrouwen","Description":null,"Datatype":"Double","Unit":"x 1 000","Decimals":0,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":47,"Position":null,"ParentID":42,"Type":"TopicGroup","Key":"","Title":"Voltijdbanen","Description":"Baan van een werknemer waarbij op een bepaald peilmoment/-periode het aantal overeengekomen te werken uren behoort bij een volledige dag- en weektaak."
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":48,"Position":31,"ParentID":47,"Type":"Topic","Key":"Totaal_30","Title":"Totaal","Description":null,"Datatype":"Double","Unit":"x 1 000","Decimals":0,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":49,"Position":32,"ParentID":47,"Type":"Topic","Key":"Mannen_31","Title":"Mannen","Description":null,"Datatype":"Double","Unit":"x 1 000","Decimals":0,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":50,"Position":33,"ParentID":47,"Type":"Topic","Key":"Vrouwen_32","Title":"Vrouwen","Description":null,"Datatype":"Double","Unit":"x 1 000","Decimals":0,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":51,"Position":null,"ParentID":42,"Type":"TopicGroup","Key":"","Title":"Deeltijdbanen","Description":"Baan van een werknemer waarbij op een bepaald peilmoment/-periode het aantal overeengekomen uren lager ligt dan het aantal dat behoort bij een volledige dag- en weektaak."
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":52,"Position":34,"ParentID":51,"Type":"Topic","Key":"Totaal_33","Title":"Totaal","Description":null,"Datatype":"Double","Unit":"x 1 000","Decimals":0,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":53,"Position":35,"ParentID":51,"Type":"Topic","Key":"Mannen_34","Title":"Mannen","Description":null,"Datatype":"Double","Unit":"x 1 000","Decimals":0,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":54,"Position":36,"ParentID":51,"Type":"Topic","Key":"Vrouwen_35","Title":"Vrouwen","Description":null,"Datatype":"Double","Unit":"x 1 000","Decimals":0,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":55,"Position":null,"ParentID":41,"Type":"TopicGroup","Key":"","Title":"Ontwikkeling t.o.v. een jaar eerder","Description":"De procentuele ontwikkeling van een bepaalde periode (maand, kwartaal, jaar) ten opzichte van dezelfde periode in het daaraan voorafgaande jaar."
+    },{
+      "odata.type":"Cbs.OData.TopicGroup","ID":56,"Position":null,"ParentID":55,"Type":"TopicGroup","Key":"","Title":"Banen (voltijd en deeltijd)","Description":"Het totaal van de voltijdbanen en de deeltijdbanen."
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":57,"Position":37,"ParentID":56,"Type":"Topic","Key":"Totaal_36","Title":"Totaal","Description":null,"Datatype":"Float","Unit":"%","Decimals":1,"Default":"Missing"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+raw_file,url,downloaded
+raw/cbs_83625NED_avg_sale_price_existing_dwellings_netherlands_annual.json,https://opendata.cbs.nl/ODataApi/odata/83625NED/TypedDataSet?$filter=RegioS eq 'NL01  '&$format=json,2026-10-17
+raw/cbs_83625NED_regions_dimension.json,https://opendata.cbs.nl/ODataApi/odata/83625NED/RegioS,2026-10-17
+raw/cbs_83625NED_tableinfos.json,https://opendata.cbs.nl/ODataApi/odata/83625NED/TableInfos,2026-10-17
+raw/cbs_85773NED_existing_dwellings_price_index_avg_price_monthly_annual_typeddataset.json,https://opendata.cbs.nl/ODataApi/odata/85773NED/TypedDataSet?$format=json,2026-10-17
+raw/cbs_85773NED_tableinfos.json,https://opendata.cbs.nl/ODataApi/odata/85773NED/TableInfos,2026-10-17
+raw/cbs_news_2026-08_koopwoning_kostte_gemiddeld_480_duizend_euro_in_2025.html,https://www.cbs.nl/nl-nl/nieuws/2026/08/koopwoning-kostte-gemiddeld-480-duizend-euro-in-2025,2026-10-17

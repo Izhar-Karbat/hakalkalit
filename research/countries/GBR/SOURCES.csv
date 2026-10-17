@@ -1,0 +1,14 @@
+raw_file,url,downloaded
+raw/govuk_about_the_price_paid_data.html,https://www.gov.uk/guidance/about-the-price-paid-data,2026-10-17
+raw/govuk_about_the_uk_hpi.html,https://www.gov.uk/government/publications/about-the-uk-house-price-index/about-the-uk-house-price-index,2026-10-17
+raw/govuk_news_uk_hpi_for_december_2025.html,https://www.gov.uk/government/news/uk-house-price-index-for-december-2025,2026-10-17
+raw/govuk_news_uk_hpi_for_july_2026.html,https://www.gov.uk/government/news/uk-house-price-index-for-july-2026,2026-10-17
+raw/govuk_uk_hpi_quality_and_methodology.html,https://www.gov.uk/government/publications/about-the-uk-house-price-index/quality-and-methodology,2026-10-17
+raw/hmlr_price_paid/pp-2022.csv,http://prod1.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-2022.csv,2026-10-17
+raw/hmlr_price_paid/pp-2023.csv,http://prod1.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-2023.csv,2026-10-17
+raw/hmlr_price_paid/pp-2024.csv,http://prod1.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-2024.csv,2026-10-17
+raw/hmlr_price_paid/pp-2025.csv,http://prod1.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-2025.csv,2026-10-17
+raw/ons_hpssa_dataset12_mean_price_paid_EW.xls,https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/housing/datasets/meanhousepricefornationalandsubnationalgeographiesquarterlyrollingyearhpssadataset12/current/hpssadataset12meanpricepaidforadministrativegeographies.xls,2026-10-17
+raw/ons_hpssa_dataset12_page.html,https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/meanhousepricefornationalandsubnationalgeographiesquarterlyrollingyearhpssadataset12,2026-10-17
+raw/ukhpi_average_prices_2026-07.csv,https://publicdata.landregistry.gov.uk/market-trend-data/house-price-index-data/Average-prices-2026-07.csv,2026-10-17
+raw/ukhpi_full_file_2026-07.csv,https://publicdata.landregistry.gov.uk/market-trend-data/house-price-index-data/UK-HPI-full-file-2026-07.csv,2026-10-17

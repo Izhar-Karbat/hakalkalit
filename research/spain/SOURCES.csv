@@ -1,0 +1,28 @@
+raw_file,url,downloaded
+raw/bde_si_1_5_housing_indicators.csv,https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/si_1_5.csv,see README
+raw/bde_si_1_5_methodology_note.pdf,MISSING,
+raw/ine_etcl_table11221_wages.json,https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/11221,see README
+raw/ine_ipv_table80271_price_index.json,https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/80271,see README
+raw/oecd_house_prices_ESP.csv,MISSING,
+raw/registradores_anuarios/ERI_Anuario_2021.pdf,https://www.registradores.org/documents/33383/1093913/ERI_Anuario_2021.pdf/492cf45a-683d-064b-8506-924aca1a29e9?t=1648200215289,see README
+raw/registradores_anuarios/ERI_Anuario_2004.pdf,https://www.registradores.org/documents/33383/148210/ERI_Anuario_2004.pdf/43ba28b8-7f5f-5c20-1a46-a2efc0571516?t=1571211460920,see README
+raw/registradores_anuarios/ERI_Anuario_2005.pdf,https://www.registradores.org/documents/33383/148210/ERI_Anuario_2005.pdf/abfefd56-2611-2f0e-83ca-990069a3275a?t=1571211459557,see README
+raw/registradores_anuarios/ERI_Anuario_2006.pdf,https://www.registradores.org/documents/33383/148210/ERI_Anuario_2006.pdf/5efe5602-616b-3c7e-471e-535b7dfdfd93?t=1571211457913,see README
+raw/registradores_anuarios/ERI_Anuario_2007.pdf,https://www.registradores.org/documents/33383/148210/ERI_Anuario_2007.pdf/1fb02a19-b96d-1acc-472c-8ef196dabff8?t=1571211456041,see README
+raw/registradores_anuarios/ERI_Anuario_2008.pdf,https://www.registradores.org/documents/33383/148210/ERI_Anuario_2008.pdf/51097c64-c80b-1406-30da-f10954cdc029?t=1571211453392,see README
+raw/registradores_anuarios/ERI_Anuario_2009.pdf,https://www.registradores.org/documents/33383/148210/ERI_Anuario_2009.pdf/05bf03ec-4e3e-cb47-95dc-1976eb038a8a?t=1571211450653,see README
+raw/registradores_anuarios/ERI_Anuario_2010.pdf,https://www.registradores.org/documents/33383/148210/ERI_Anuario_2010.pdf/99044067-9ade-82d9-b468-70b7d085d581?t=1571211447051,see README
+raw/registradores_anuarios/ERI_Anuario_2011.pdf,https://www.registradores.org/documents/33383/148210/ERI_Anuario_2011.pdf/f10d5180-ab18-28e8-2606-f17b2dea5602?t=1571211439825,see README
+raw/registradores_anuarios/ERI_Anuario_2012.pdf,https://www.registradores.org/documents/33383/148210/ERI_Anuario_2012.pdf/458f0982-2ec6-639d-c367-cd6f8bd14d46?t=1571211437322,see README
+raw/registradores_anuarios/ERI_Anuario_2013.pdf,https://www.registradores.org/documents/33383/148210/ERI_Anuario_2013.pdf/6a3c7423-9eae-8adb-f362-cb121efc050b?t=1571211434111,see README
+raw/registradores_anuarios/ERI_Anuario_2014.pdf,https://www.registradores.org/documents/33383/148210/ERI_Anuario_2014.pdf/2834ca48-6622-fe66-4adc-f8a5d18807e9?t=1571211427983,see README
+raw/registradores_anuarios/ERI_Anuario_2015.pdf,https://www.registradores.org/documents/33383/148210/ERI_Anuario_2015.pdf/cab80815-ed42-a753-f22c-93ef67e944da?t=1571211425468,see README
+raw/registradores_anuarios/ERI_Anuario_2016.pdf,https://www.registradores.org/documents/33383/148210/ERI_Anuario_2016.pdf/3a6691ca-a2b0-580b-d55b-334ea1eeba78?t=1571211422656,see README
+raw/registradores_anuarios/ERI_Anuario_2017.pdf,https://www.registradores.org/documents/33383/148210/ERI_Anuario_2017.pdf/a655b950-e92e-8e59-dd7a-70e6684cf996?t=1571211420159,see README
+raw/registradores_anuarios/ERI_Anuario_2018.pdf,https://www.registradores.org/documents/33383/148210/ERI_Anuario_2018.pdf/fabc5ce5-8215-b475-c0fa-9d607dfbb9a8?t=1571211418022,see README
+raw/registradores_anuarios/ERI_Anuario_2019.pdf,https://www.registradores.org/documents/33383/148210/ERI_Anuario_2019.pdf/902e281f-e147-3c4f-f5ef-3cddf2b12629?t=1589953778564,see README
+raw/registradores_anuarios/ERI_Anuario_2020.pdf,https://www.registradores.org/documents/33383/148210/ERI_Anuario_2020.pdf/6ec046a0-38af-0b24-e16f-09d77c5fa7f4?t=1616579953455,see README
+raw/registradores_anuarios/ERI_Anuario_2023.pdf,https://www.registradores.org/documents/33383/148210/ERI_Anuario_2023.pdf/d9600e18-01db-467f-5ad9-14e3a1561c40?t=1712040636466,see README
+raw/registradores_anuarios/ERI_Anuario_2024.pdf,https://www.registradores.org/documents/33383/148210/ERI+Anuario+2024.pdf/9f9ab5b0-d889-6d2c-9ae2-943ee6dd8ea8?t=1745394993385,see README
+raw/registradores_anuarios/ERI_Anuario_2025.pdf,https://www.registradores.org/documents/33383/148210/ERI+Anuario+2025.pdf/f15ee835-3246-6132-11d0-6495dfeee415?t=1774598855046,see README
+raw/registradores_anuarios/ERI_Anuario_2022.pdf,https://www.registradores.org/documents/33383/8864300/ERI_Anuario_2022.pdf/52deb607-4e71-eaca-4620-7955638b541b?t=1679040192334,see README
