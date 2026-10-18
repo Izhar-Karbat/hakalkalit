@@ -5,7 +5,6 @@
 | `zelekha_plan_2003-03-01.doc` | The original Word file, "עיקרי תכנית כלכלית להוצאת המשק מהמיתון", signed ד"ר רו"ח ירון זליכה. |
 | `zelekha_plan_2003-03-01.pdf` | The same text as a PDF, for reading in a browser. |
 | `zelekha_lecture_2002-11.pdf` | Lecture "מקורות אי הוודאות במשק והשפעתם על הצמיחה", Kiryat Ono Academic College, November 2002, as a PDF. |
-| `comparison_plan_vs_government_march2003.md` | Item-by-item comparison of the 1.3.2003 paper with the government plan as reported in March 2003, with links. |
 
 ## Where they come from
 Zelekha sent both Word files by email on 18.10.2026. He sent them as sources for this page.

@@ -17,7 +17,7 @@ https://izhar-karbat.github.io/hakalkalit/ . Every number on the page can be reb
 | `countries/fig_price_to_wage.py` | The chart "Israel and seven countries". |
 | `countries/_verify/<ISO>/VERIFICATION.md` | An independent rebuild of each country: the sources were found and the numbers computed again without looking at ours, then compared. Every country matched; the reports list the points a critic could raise. |
 | `countries/wages/` | OECD wage files that were checked and not used (see the page). |
-| `yaron_2003/` | Zelekha's own documents on the March 2003 economic plan (his 1.3.2003 paper and a November 2002 lecture), with their file dates and a comparison with the government plan. |
+| `yaron_2003/` | Zelekha's own documents on the March 2003 economic plan (his 1.3.2003 paper and a November 2002 lecture), with their file dates. |
 
 Countries: ISR (Israel), ESP (Spain), USA, CAN (Canada), GBR (England and Wales for prices), DEU (Germany), FRA (France), NLD (Netherlands).
 
